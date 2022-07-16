@@ -27,6 +27,6 @@ Three recommendations are made based on the analysis summary results and the tre
   * [city data.csv](/Resources/city_data.csv)
   * [ride data.csv](/Resources/ride_data.csv)
 * Software: Python 3.9.12 | Jupyter Notebook 6.4.8
-* Source code: [source code](/Pyber_Challenge.ipynb)
+* Source code: [PyBer_Challenge.ipynb](/PyBer_Challenge.ipynb)
 
 
