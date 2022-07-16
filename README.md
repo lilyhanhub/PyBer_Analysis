@@ -17,7 +17,7 @@ On the contrary, both the average fares per ride and per driver are much higher 
 The multiple-line chart shows the urban cities had the highest while rural cities had the lowest total fares for each week. The weekly total fares of all city types reach the first peaks at the end of Feburary, then both the urban and rural cities reach the second peaks at the beginning of April. In general, all the graphs follow the similar trends throughout the four months, except for the suburban cities, there's a sharp increase from mid to the end of April.
 
 ## Summary
-Three recommendations are made based on the above analysis results and trends shown in the graph:
+Three recommendations are made based on the above analysis summary results and trends shown in the graph:
 *  In order to narrow the huge gap of rides between densely populated and less populated cities, some targeted promotions/campaigns are needed to increase the number of Suburban and rural riders.
 *  The average fare per driver shows the rural fare is extremely higher than the urban and suburban fares, which indicates there's a shortage of rural drivers. So PyBer might need to increase more drivers in rural areas to optimize its profits.
 *  The weekly total fares of all city types chart shows the similar trends reaching the first peaks at the end of Feburary. PyBer could analyze further on the data during this special period. Is it because of increased new riders or more current riders? What campaigns/promotions make such increase companywide? 
