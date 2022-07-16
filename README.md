@@ -1,9 +1,9 @@
 # PyBer_Analysis
-## Overview of the analysis: 
+## Overview of the analysis
 PyBer is python-based ride-sharing app company. The goal of this analysis is two-fold: first, analyzing the ride-sharing data from January to April 2019 to create a summary DataFrame with the following metrics: total rides, total drivers, total fares, average fare per ride, and average fare per drive. All are categorized by city types; second, creating a multiple-line graph that shows the total weekly fares for each city type by using Pandas and Matplotlib. The analysis will summarize how the data differs by city type and how those differences can be used by PyBer decision-makers. 
 
 ## Results
-The generated PyBersummary DataFrame shows the disparity of ride-sharing data among the three different city types.
+The generated PyBer summary DataFrame shows the disparity of ride-sharing data among the three different city types.
 ![pyber summary DataFrame](/analysis/pyber_summary.png)
 The number of total rides in the uraban cities is about 13 and 2.6 times more than the rural and suburban cities, respectively. 
 The number of total drivers in the urban cities is about 31 and 5 times more than the rural and suburban cities, respectively. 
