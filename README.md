@@ -20,7 +20,7 @@ The multiple-line chart shows the urban cities had the highest while rural citie
 Three recommendations are made based on the above analysis summary results and trends shown in the graph:
 *  In order to narrow the huge gap of rides between densely populated and less populated cities, some targeted promotions/campaigns are needed to increase the number of Suburban and rural riders.
 *  The average fare per driver shows the rural fare is extremely higher than the urban and suburban fares, which indicates there's a shortage of rural drivers. So PyBer might need to increase more drivers in rural areas to optimize its profits.
-*  The weekly total fares of all city types chart shows the similar trends reaching the first peaks at the end of Feburary. PyBer could analyze further on the data during this special period. Is it because of increased new riders or more current riders? What campaigns/promotions make such increase companywide? 
+*  The weekly total fares of all city types chart shows the similar trends reaching the first peaks at the end of Feburary. PyBer could analyze further on the data during this special period. Is it because of increased new riders or more current riders? What campaigns/promotions make such effective increase companywide? 
 
  
 
