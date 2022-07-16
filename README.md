@@ -5,9 +5,13 @@ PyBer is python-based ride-sharing app company. The goal of this analysis is two
 ## Results
 The generated PyBer summary DataFrame shows the disparity of ride-sharing data among the three different city types.
 ![pyber summary DataFrame](/analysis/pyber_summary.png)
-* The number of total rides in the uraban cities is about 13 and 2.6 times more than the rural and suburban cities, respectively. 
-* The number of total drivers in the urban cities is about 31 and 5 times more than the rural and suburban cities, respectively. 
+* The number of total rides in the uraban cities is about 13- and 2.6-times more than the rural and suburban cities, respectively. 
+* The number of total drivers in the urban cities is about 31- and 5-times more than the rural and suburban cities, respectively. 
+* The total fares collected from the data set is $63,538.64. Urban cities make up 62.7%  of total fares collected, while rural and suburban cities make up only 6.8% and 30.5%, respectively. 
 
+On the contrary, both the average fares per ride and per driver are much higher in rural citeies comparing to urban and suburban cities.
+* Average fare per ride in rural cities costs about 10.5% more than suburban cities and 29.1% more than urban cities. 
+* Average fare per driver is fairly low in urban cities. Urban fare is 58% cheaper than suburban fare and 70% cheaper than rural fare.
 
 ![multiple-line chart of total fares for each city type](/analysis/Fig8.png)
 The multiple-line chart shows the urban cities had the highest while rural cities had the lowest total fares for each week. The weekly total fare of all city types reaches the first peak at the end of Feburary, then both the urban and rural cities reach the second peak at the beginning of April. In general, all the graphs follow the similar trends throughout the four months, except for the suburban cities, there's a sharp increase from mid to the end of April.
