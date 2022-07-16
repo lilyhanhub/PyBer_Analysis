@@ -18,6 +18,8 @@ The multiple-line chart shows the urban cities had the highest while rural citie
 
 ## Summary
 Three recommendations are made based on the above analysis results and trends shown in the graph:
-* he average fare per ride shows a gradual increase from more populated cites to less populated cities. However, the average fare per drive increases drastically when following the same trend. This indicates that the number of drivers may be exponentially lower than expected. The company may want to allocate more drivers to rural areas to optimize its profits.
+*  In order narrow the huge gap of rides between densely populated and less populated cities, some targeted promotions/campaigns are needed to increase the number of Suburban and rural riders.
+*  The average fare per driver shows the rural fare is extremely higher than the urban and suburban fares, which indicates there's a shortage of rural drivers. So PyBer might need to increase more drivers in rural areas to optimize its profits.
+* 
 
-* argeted campaigns to increase the number of Suburban and rural riders to narrow the gap between densely populated and less populated cities.
+
