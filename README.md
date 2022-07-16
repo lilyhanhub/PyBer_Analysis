@@ -5,8 +5,8 @@ PyBer is python-based ride-sharing app company. The goal of this analysis is two
 ## Results
 The generated PyBer summary DataFrame shows the disparity of ride-sharing data among the three different city types.
 ![pyber summary DataFrame](/analysis/pyber_summary.png)
-The number of total rides in the uraban cities is about 13 and 2.6 times more than the rural and suburban cities, respectively. 
-The number of total drivers in the urban cities is about 31 and 5 times more than the rural and suburban cities, respectively. 
+* The number of total rides in the uraban cities is about 13 and 2.6 times more than the rural and suburban cities, respectively. 
+* The number of total drivers in the urban cities is about 31 and 5 times more than the rural and suburban cities, respectively. 
 
 
 ![multiple-line chart of total fares for each city type](/analysis/Fig8.png)
