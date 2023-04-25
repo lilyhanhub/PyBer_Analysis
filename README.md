@@ -2,6 +2,25 @@
 ## Overview of the analysis
 PyBer is python-based ride-sharing app company. The goal of this analysis is two-fold: first, analyzing the ride-sharing data from January to April 2019 to create a summary DataFrame with the following metrics: total rides, total drivers, total fares, average fare per ride, and average fare per drive. All are categorized by city types; second, creating a multiple-line graph that shows the total weekly fares for each city type by using Pandas and Matplotlib. The analysis will summarize how the data differs by city type and how those differences can be used by PyBer decision-makers. 
 
+## Background
+We have been assisting PyBer, a Python based ride sharing app company performing an exploratory analysis on their internal data. We have received two CSV files:
+1. [city_data.csv](Resources/city_data.csv): includes 120 cities, number of drivers in each city and the type (urban, suburban, or rural) of the city.
+2. [ride_data.csv](Resources/ride_data.csv): contains information of 2375 rides, including the city, date, fare, and the ride ID. We conducted following analysis to prepare this part of project:
+* Inspect and merge DataFrames.
+* Create a bubble chart to show the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
+* Summary statistics of measurements of central tendency (mean, median and mode) for:
+    - The total number of rides for each city type.
+    - The average fares for each city type.
+    - The total number of drivers for each city type.
+* Created box-and-whisker plot to determine if there are any outliers for:
+    - The number of rides for each city type.
+    - The fares for each city type.
+    - The number of drivers for each city type.
+* Created pie charts to visualize the following data for each city type:
+    - The percent of total fares.
+    - The percent of total rides.
+    - The percent of total drivers.
+
 ## Results
 The generated PyBer summary DataFrame shows the disparity of ride-sharing data among the three different city types.
 ![pyber summary DataFrame](/analysis/pyber_summary.png)
